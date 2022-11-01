@@ -1,0 +1,10 @@
+body{width: 80%; margin:0 auto;}
+h1 {color: green; text-align:left;}
+h2 {color: red}
+strong {color: red;}
+em {color: blue;}
+a:link {color: blue;}
+a:visited {color: green;}
+a:hover {color: red;}
+a:active {color: blue}
+body {width: 50em; margin: 0 auto; border: 1px solid red;}
