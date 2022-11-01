@@ -1,0 +1,77 @@
+.model1 {
+    border: 3px solid green;
+    margin: 20px;
+}
+.model2 {
+    border: 3px solid green;
+    margin: 20px;
+    color: red;
+}
+.model3{
+    border: 3px dashed blue;
+    padding: 15px;
+    color: blue;
+}
+.li1 {
+    display: block;
+    padding: 1em;
+    margin: 1em;
+    border: 3px dashed green;
+}
+.li2 {
+display: inline;
+padding: 1em;
+margin: 1em;
+border: 3px dashed blue;
+color: red;
+}
+.li3 {
+display: inline-block;
+padding: 1em;
+margin: 1em;
+border: 3px dashed red;
+}
+.div{
+    border: 5px solid red;
+    padding: 50px;
+    margin: 30px;
+}
+ul {
+padding: 15px;
+}
+.group2 {
+    border: 1px solid;
+    display: flexbox;
+    clear: both;
+}
+.box {
+    border: 1px solid;
+    padding: 1em;
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+}
+.box2 {
+    border: 1px solid;
+    padding: 1em;
+    float: right;
+    width: 50%;
+    box-sizing: border-box;
+}
+.imgR {
+    float: right;
+    border-radius: 8px;
+}
+.athugid {
+    text-align: center;
+    background-color: yellow;
+    margin: 10px;
+}
+.bigL {
+    float: left;
+    text-spacing: 10px;
+    font-size: 50px;
+}
+ * {
+    box-sizing: border-box;
+}
